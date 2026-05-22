@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.db
+*.log
+instance/
+.env
+credentials.py
+.DS_Store
+*.swp
