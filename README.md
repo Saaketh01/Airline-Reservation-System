@@ -9,8 +9,8 @@ This project implements a full stack airline reservation system that allows user
 - **Booking Management:** The system ensures accurate tracking of reservations and maintains consistency between flight availability and bookings.
 
 ## Technologies Used
+- **Python (Flask):** Used as the backend framework to handle requests, business logic, and API operations.
 - **HTML/CSS:** Used for structuring and styling the user interface for flight search and booking pages.
 - **JavaScript:** Used for client-side interactivity and handling dynamic user actions.
-- **Python (Flask):** Used as the backend framework to handle requests, business logic, and API operations.
 - **MySQL:** Used as the relational database to store flight details, user data, and booking records with efficient CRUD operations.
 - **Deployment Tools (Render, Aiven):** Used for deploying and hosting the application and database in a cloud environment.
